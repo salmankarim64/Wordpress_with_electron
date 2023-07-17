@@ -1,0 +1,23 @@
+{
+  "name": "wordpress_with_electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "salman",
+    "Karim"
+  ],
+  "author": "salmankarim64@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.3.0",
+    "electron-builder": "^24.4.0"
+  },
+  "dependencies": {
+    "@wp-now/wp-now": "^0.1.54"
+  }
+}
